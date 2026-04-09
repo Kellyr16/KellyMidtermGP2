@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e277037582cd904487250a703f4352c, type: 3}
+  m_Name: Cooldown
+  m_EditorClassIdentifier: Assembly-CSharp::SkillSO
+  skillName: Cooldown
+  maxLevel: 20
+  skillIcon: {fileID: 4526638008314866843, guid: f31ab464b0883224eb7cf7f90c5deecc, type: 3}
